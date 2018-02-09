@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiclooLocation</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="open">Ouvert</string>
+    <string name="closed">Fermé</string>
+    <string name="availabilities">Bicloo disponibles: %1$d/%2$d</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="maps_direction_url" translatable="false">https://developers.google.com/maps/documentation/directions/?hl=fr</string>
+
+    <string name="jcdecaux_base_url" translatable="false">https://api.jcdecaux.com</string>
+    <string name="jcdecaux_apikey" translatable="false">fb3fd7505bf51b3caab461b531be38e749cb20fa</string>
+
+</resources>
